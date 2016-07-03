@@ -11,7 +11,8 @@ conversions for plotting the data.
 ## Running the program
 
 * Start by downloading/cloning the repository in your system. Please check that you have all the required packages and version mentioned in the REQUIRE file.
-* If you have updated data put it in the data folder of the program
+* Unzip the data.zip file.
+* If you have updated data put it in the data folder.
 * Next open a terminal/command prompt and navigate to the directory of the project. Then type
 
   `~$ cd src`
